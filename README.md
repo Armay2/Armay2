@@ -1,6 +1,13 @@
 ### Hi there ! 👋
 
-I'm Arnaud, a french iOS developer ! Passionate about new technologies and innovations of all kinds ! I'm currently working on iPad Apps at onepoint for NISSAN Europe 
+I'm Arnaud, a french iOS developer ! Passionate about new technologies and innovations of all kinds ! 
+
+
+- 🔭 I'm currently working on iPad Apps at onepoint for NISSAN Europe 
+- 🌱 I'm currentry leaning Clean Architecture
+- 💬 Ask me about Swift
+- 😀 Pronouns: He/him
+- ⚡️ Fun fact: I love to pitch my projects 
 
 
 ## My skills
@@ -10,8 +17,6 @@ I'm Arnaud, a french iOS developer ! Passionate about new technologies and innov
  * Design (Figma, Adobe XD, Adobe Illustrator, ...) 🎨
  * Teaching (Courses, Workshop, student follow-up, ...) 👨🏻‍🏫
  * Photography and amateur video (Youtube, Photo, Vlog, Sport, Travel, ...) 🎬
-
-
 
 
 ## Education 👨🏻‍🎓
@@ -29,3 +34,4 @@ I'm Arnaud, a french iOS developer ! Passionate about new technologies and innov
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_Cj2XMo2iQ4JDLi-CmO7pA?style=social)](https://www.youtube.com/c/arnaudnommay)
 
 [![LinkedIn](https://img.shields.io/badge/My-portfolio-blue)](arnaudnommay.com)
+
