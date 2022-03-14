@@ -3,7 +3,7 @@
 I'm Arnaud, a french iOS developer ! Passionate about new technologies and innovations of all kinds ! 
 
 
-- 🔭 I'm currently working on iPad Apps at onepoint for NISSAN Europe 
+- 🔭 I'm currently working on iPad Apps at onepoint for NISSAN - AMIEO (Africa, Middle East, India, Europe and Oceania)
 - 🌱 I'm currentry leaning Clean Architecture
 - 💬 Ask me about Swift
 - 😀 Pronouns: He/him
