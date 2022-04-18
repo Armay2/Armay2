@@ -4,7 +4,7 @@ I'm Arnaud, a french iOS developer ! Passionate about new technologies and innov
 
 
 - 🔭 I'm currently working on iPad Apps at onepoint for NISSAN - AMIEO (Africa, Middle East, India, Europe and Oceania)
-- 🌱 I'm currentry leaning Clean Architecture
+- 🌱 I'm currently leaning Clean Architecture
 - 💬 Ask me about Swift
 - 😀 Pronouns: He/him
 - ⚡️ Fun fact: I love to pitch my projects 
