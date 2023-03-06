@@ -1,9 +1,9 @@
 ### Hi there ! 👋
 
-I'm Arnaud, a french iOS developer ! Passionate about new technologies and innovations of all kinds ! 
+I'm Arnaud, a french free-lance iOS developer ! Passionate about new technologies and innovations of all kinds ! 
 
 
-- 🔭 I'm currently working on iPad Apps at onepoint for NISSAN - AMIEO (Africa, Middle East, India, Europe and Oceania)
+- 🔭 I'm look for a new client !
 - 🌱 I'm currently leaning Clean Architecture
 - 💬 Ask me about Swift - SwiftUI
 - 😀 Pronouns: He/him
