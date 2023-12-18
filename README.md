@@ -2,13 +2,11 @@
 
 I'm Arnaud, a french free-lance iOS developer ! Passionate about new technologies and innovations of all kinds ! 
 
-
 - 🔭 I'm look for a new client !
 - 🌱 I'm currently leaning Clean Architecture
 - 💬 Ask me about Swift - SwiftUI
 - 😀 Pronouns: He/him
 - ⚡️ Fun fact: I love to pitch my projects 
-
 
 ## My skills
 
@@ -17,16 +15,6 @@ I'm Arnaud, a french free-lance iOS developer ! Passionate about new technologie
  * Design (Figma, Adobe XD, Adobe Illustrator, ...) 🎨
  * Teaching (Courses, Workshop, student follow-up, ...) 👨🏻‍🏫
  * Photography and amateur video (Youtube, Photo, Vlog, Sport, Travel, ...) 🎬
-
-
-## Education 👨🏻‍🎓
-
-|	School     | City | Level | Topic |
-|:------------:|:---------------:|:-------------:|---|
-|	EPITECH	|	Toulouse 🇫🇷	|	Master's degree <br> Bachelor's degree | Information and Technology|
-| TUD	| Dublin 🇮🇪|	Associate Degree | Project management in information technology |
-| Ionis-STM | Paris 🇫🇷 | Associate Degree | Teaching and Management | 
-
 
 ## Usefull links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-nommay/)
