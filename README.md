@@ -3,7 +3,7 @@
 I'm Arnaud, a french free-lance iOS developer ! Passionate about new technologies and innovations of all kinds ! 
 
 - 🔭 I'm look for a new client !
-- 🌱 I'm currently leaning Clean Architecture
+- 🌱 I'm currently leaning ARKit
 - 💬 Ask me about Swift - SwiftUI
 - 😀 Pronouns: He/him
 - ⚡️ Fun fact: I love to pitch my projects 
