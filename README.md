@@ -2,9 +2,8 @@
 
 I'm Arnaud, a french **iOS developer** ! Passionate about new technologies and innovations of all kinds ! 
 
-- 🌱 I'm currently leaning Kotlin MultiPlatform
+- 🌱 I'm currently leaning Kotlin Multiplatform
 - 💬 Ask me about Swift - SwiftUI
-- 😀 Pronouns: He/him
 - ⚡️ Fun fact: I love to pitch my projects 
 
 ## Usefull links
